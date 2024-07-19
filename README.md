@@ -11,7 +11,7 @@ The final report highlights the largest duplicates found.
 
 ### Quickstart ###
 
-    go install https://github.com/matteopic/hashdir/
+    go install "github.com/matteopic/hashdir/cmd/hashdir@latest"
 
     # Linux
     hashdir /usr
